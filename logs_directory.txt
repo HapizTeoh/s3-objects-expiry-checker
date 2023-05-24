@@ -1,0 +1,14 @@
+AWSLogs/542493669134/CloudTrail-Digest
+AWSLogs/542493669134/CloudTrail
+AWSLogs/542493669134/CloudwatchLogs/RDS-daily-snapshots
+AWSLogs/542493669134/elasticloadbalancing
+AWSLogs/542493669134/GuardDuty
+AWSLogs/542493669134/RDS
+LogstashLogs/AIDELogs
+LogstashLogs/ApplicationLogs
+LogstashLogs/AuthLogs
+LogstashLogs/ClamAVLogs
+LogstashLogs/FIMLogs
+LogstashLogs/ShopifyLogs
+LogstashLogs/SysLogs
+LogstashLogs/TeleportLogs
